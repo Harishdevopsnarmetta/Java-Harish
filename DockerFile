@@ -1,4 +1,4 @@
 FROM adoptopenjdk/maven-openjdk8
 EXPOSE 8080
-ADD target/Java-Harish-File.jar Java-Harish-File.jar
-ENTRYPOINT ["java","-jar","/Java-Harish-File.jar"]
+ADD target/java-harish-file.jar java-harish-file.jar
+ENTRYPOINT ["java","-jar","/java-harish-file.jar"]

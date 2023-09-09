@@ -15,7 +15,7 @@
     </properties>
 
     <build>
-        <finalName>Java-Harish-File</finalName>
+        <finalName>java-harish-file</finalName>
     </build>
 
 </project>
